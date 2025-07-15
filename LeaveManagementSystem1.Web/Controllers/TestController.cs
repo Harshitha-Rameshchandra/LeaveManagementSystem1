@@ -22,7 +22,7 @@ namespace LeaveManagementSystem1.Web.Controllers
                 Age = 25,
                 Address = "Baburayana Koppal"
             };
-            return View(data);
+            return View(data); 
         }
     }
 }

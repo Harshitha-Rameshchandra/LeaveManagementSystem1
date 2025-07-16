@@ -12,6 +12,7 @@ namespace LeaveManagementSystem1.Web.Controllers
                 Name = "Student of MVC Mastery",
                 DateOfBirth = new DateTime(1954,12,09)
             };
+
             return View(data);
         }
 
